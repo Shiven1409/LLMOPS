@@ -1,4 +1,4 @@
-# llmops-surojit-sengupta-2007
+# llmops
 
 Your repository for the LLMOps course on Databricks. Everything you need in
 the course workspace was provisioned for you before you got this repo, and every id is already in
